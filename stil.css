@@ -1,0 +1,65 @@
+body{
+    background-color: cadetblue;
+}
+.ortala{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.d1{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    border-radius: 100px;
+}
+.d2{
+    height: 200px;
+    width: 200px;
+    background-color: burlywood;
+    border-radius: 100px;
+    margin-top: 10px;
+}
+.butonlar{
+    margin-top: 20px;
+}
+.b1{
+    height: 50px;
+    width: 150px;
+    background-color: darkgoldenrod;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+}
+.b2{
+    height: 50px;
+    width: 150px;
+    background-color: darkgoldenrod;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+}
+.b3{
+    height: 50px;
+    width: 150px;
+    background-color: darkgoldenrod;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+}
+.goster{
+    display: block;
+}
+.gizle{
+    display: none;
+}
+.gecis{
+    display: none;
+}
